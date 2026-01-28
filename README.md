@@ -1,5 +1,7 @@
 # AWS-cloudwatch-monitoring
 Monitoring EC2 using AWS Cloudwatch, Alarms, SNS and dashboards.
+
+
 #Project Overview-
 This is the basic project that demonstrates how to launch EC2 instance, monitor cloud applications, alarm setup, SNS notification system and visulizing metrics dashboards.
 ##Services used
